@@ -1,0 +1,3 @@
+[submodule ".NET/XenForo.API"]
+	path = .NET/XenForo.API
+	url = https://github.com/Brandon689/XenForo.API.NET
